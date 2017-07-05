@@ -1,0 +1,29 @@
+{
+  "name": "mocha_http_test_framework",
+  "version": "0.0.1",
+  "description": "Basic HTTP assertion testing using Mocha and SuperTest",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomburgoyne/mocha_http_test_framework.git"
+  },
+  "keywords": [
+    "Mocha",
+    "SuperTest",
+    "HTTP",
+    "Testing"
+  ],
+  "author": "Tom Burgoyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomburgoyne/mocha_http_test_framework/issues"
+  },
+  "homepage": "https://github.com/tomburgoyne/mocha_http_test_framework#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "supertest": "^3.0.0"
+  }
+}

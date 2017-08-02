@@ -23,7 +23,7 @@
   "homepage": "https://github.com/tomburgoyne/mocha_http_test_framework#readme",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^3.4.2",
+    "mocha": "^3.5.0",
     "supertest": "^3.0.0"
   }
 }
